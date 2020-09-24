@@ -1,0 +1,152 @@
+body {
+  font-family: Spartan;
+  font-size: 15px;
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0 ;
+  width: 60%;
+  color: hsl(300, 43%, 22%)
+}
+
+
+.intro
+{
+  width: 90%;
+  line-height: 1.5 ;
+  color: hsl(300, 43%, 22%)
+}
+.background
+{
+  position: absolute;
+
+}
+
+.full-container
+{
+  padding: 100px;
+}
+
+.left-top{
+width: 50%;
+display: inline-block;
+}
+
+.right-top
+{
+  display: inline-block;
+  height: 209px;
+  position: absolute;
+  right: 100px;
+  top :100px;
+  line-height: 2.7;
+  font-size: 12px
+}
+.reviews
+{
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 6px;
+  text-align: center;
+  position: relative;
+  right:70px;
+  padding: 10px 10px;
+}
+
+.report-guru
+{
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 6px;
+  text-align: center;
+  margin: 15px auto;
+  padding: 10px 10px;
+  position: relative;
+  right:35px;
+  width: 378.2px;
+}
+.bestech
+{
+  background-color: hsl(300, 24%, 96%);
+  border-radius: 6px;
+  text-align: center;
+  padding: 10px 10px;
+}
+
+span
+{
+  padding-right: 30px;
+}
+
+.bottom-container{
+
+  position: relative;
+  margin: 80px 0;
+  align-content: center;
+}
+.purple-container
+{
+  display: inline-block;
+  background-color: hsl(300, 43%, 22%);
+  border-radius: 8px;
+  width: 25%;
+  color: hsl(0, 0%, 100%);
+  font-size: 12px;
+  padding: 40px 30px;
+  height: 15%;
+}
+
+#left-box
+{
+  position: relative;
+  bottom: 15px;
+
+}
+
+#middle-box
+{
+  margin: 0 40px;
+  position: relative;
+
+
+
+}
+
+#right-box
+{
+position: relative;
+top: 15px;
+}
+img{
+  border-radius: 100%;
+  float: left;
+  margin-right: 25px;
+
+}
+
+p
+{
+  text-align: left;
+  display: inline-block;
+  ;}
+
+  .id
+  {
+    float: right;
+  }
+.name{
+margin-bottom: 5px;
+font-weight: 500;
+}
+.vb
+{
+  margin-top: 5px;
+  color: hsl(333, 80%, 67%);
+  display: block;
+  font-weight: 500;
+
+}
+.comment
+{
+font-weight: 400;
+line-height: 1.7;
+}
